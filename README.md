@@ -1,4 +1,5 @@
 # Official Site 官方网站
+[![Build status](https://ci.appveyor.com/api/projects/status/briyhqupxnm8eanx?svg=true)](https://ci.appveyor.com/project/mo10/cmwtat-digital-edition)
 
 [https://cmwtat.cloudmoe.com]
 
